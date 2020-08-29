@@ -1,0 +1,208 @@
+form .row:first-child .floating-label-form-group {
+    border-top: 1px solid #e9ecef;
+  }
+
+#mainNav{
+    background-color: #FFF;
+}
+
+#mainNav .navbar-brand img{
+    height: 50px;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+    color: #0C1C8C !important;
+}
+
+header.masthead {
+    height: 600px;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.hero {
+    padding-top: 150px;
+}
+
+.img-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-col p{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 30px 0px 0px 0px;
+}
+
+[class$='-img']{
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    border-radius: 50%;
+    box-shadow: 0px 2px 5px #aeaeae;
+}
+
+[class$='-logo']{
+    height: 95px;
+    width: 277px;
+    
+    
+}
+.events_img{
+    
+    height:8cm;
+    width:20cm;
+}
+
+.events_img-side{
+    float: left;
+    padding: 5px;
+    height:8cm;
+    width:18.5cm;
+}
+
+/* IEEE LOGO'S*/
+.IEEEnLOGO{
+    background-image: url('/public/assets/img/IEEE VCE SB PNG.png'); 
+    height: 220px;
+    width: 240px;
+    background-size: 100%;
+    box-shadow: 0px 0px 1px #aeaeae;
+}
+
+/*IEEE logo's*/
+.ieee_cs-logo{ background-image: url('/public/assets/img/IEEE_CS.png'); }
+.ieee_wie-logo{ background-image: url('/public/assets/img/IEEE_WIE.png'); }
+.ieee_mtt-logo{ background-image: url('/public/assets/img/IEEE_MTT-S.svg'); }
+
+/*Coongrats Images*/
+[class$='congrats_']{
+     height: 10cm;
+    width: 18cm;
+    background-size: 100%;
+}
+.congrats_niharika{ background-image: url('/public/assets/img/congrats_niharika.jpeg'); }
+.congrats_prashanth{ background-image: url('/public/assets/img/congrats_prashanth.jpeg'); }
+
+/*Landing page images */
+
+.principal-sir-img{ background-image: url('/public/assets/img/principal-sir.jpg'); }
+
+.jabbar-sir-img{ background-image: url('/public/assets/img/jabbar-sir.jpg'); }
+
+.rajanikanth_sir-img{ background-image: url('/public/assets/img/rajanikanth_sir.jpg'); }
+
+.mallikharjuna_sir-img{ background-image: url('/public/assets/img/mallikarjun_sir.jpg'); }
+
+.asif-img{ background-image: url('/public/assets/img/asif_sir.jpg'); }
+
+/* CS chapter images */
+
+.pravan-img{ background-image: url('/public/assets/img/pravan.jpg'); }
+
+.niharika-img{ background-image: url('/public/assets/img/niharika.jpg'); }/*Common*/
+
+.burhan-img{ background-image: url('/public/assets/img/burhan.jpg'); }
+
+.sunayana-img{ background-image: url('/public/assets/img/sunayana.jpg'); }
+
+.prashanth-img{ background-image: url('/public/assets/img/prashanth.jpg'); }/*Common*/
+
+.vaishnavi-img{ background-image: url('/public/assets/img/vaishnavi.jpg'); }/*Common*/
+
+.akash-img{ background-image: url('/public/assets/img/akash.jpg'); }
+
+.shashi-img{ background-image: url('/public/assets/img/shashi.jpg'); }
+
+.puneeth-img{ background-image: url('/public/assets/img/puneeth.jpeg'); }/*Common*/
+
+/* MTT chapter images */
+
+.sulakshana_madam-img{ background-image: url('/public/assets/img/sulakshana_madam.jpg'); }
+
+.manohar-img{ background-image: url('/public/assets/img/manohar.jpeg'); }
+
+.akshita-img{ background-image: url('/public/assets/img/akshita.jpg'); }/*Common*/
+
+.priyanka-img{ background-image: url('/public/assets/img/priyanka.jpg'); }/*Common*/
+
+.adhana-img{ background-image: url('/public/assets/img/adhana.jpg'); }
+
+.pooja-img{ background-image: url('/public/assets/img/pooja.jpg'); }
+
+.hemavardhan-img{ background-image: url('/public/assets/img/hemavardhan.jpg'); }
+
+.afsha-img{ background-image: url('/public/assets/img/afsha.jpg'); }/*Common*/
+
+.nagaraju-img{ background-image: url('/public/assets/img/nagaraju.jpg'); }
+
+/* WIE Chapter images */
+
+.sangeeta_madam-img{ background-image: url('/public/assets/img/20191119_152040.jpg'); }
+
+.thanmai-img{ background-image: url('/public/assets/img/thanmai.jpeg'); }
+
+/* CAS Chapter images */
+
+.jvr_sir-img{ background-image: url('/public/assets/img/jvr_sir.jpg'); }
+
+.subramanya-img{ background-image: url('/public/assets/img/subramanya.jpg'); }
+
+.vandana-img{ background-image: url('/public/assets/img/vandana.jpg'); }
+
+.sai_charan-img{ background-image: url('/public/assets/img/sai_charan_l.jpg'); }
+
+.newsletter-pdf{
+    height: 800px;
+    width: 800px;
+}
+
+/*-------------------------------------------- Slate 2020 images ----------------------------------------------*/
+
+.aditya-img{ background-image: url('/public/assets/img/slate-2020/aditya.jpeg'); }
+.bujji-img{ background-image: url('/public/assets/img/slate-2020/WhatsApp Image 2020-04-01 at 5.46.03 PM.jpeg'); }
+.ajay-img{ background-image: url('/public/assets/img/slate-2020/ajay.jpg'); }
+.asma-img{ background-image: url('/public/assets/img/asma.jpeg'); }
+.shriya-img{ background-image: url('/public/assets/img/slate-2020/shriya-ece.jpg'); }
+.pavanid-img{ background-image: url('/public/assets/img/slate-2020/Screenshot_20200331-125802_Photos.jpg'); }
+.asna-img{ background-image: url('/public/assets/img/slate-2020/asna.jpg'); }
+.anish-img{ background-image: url('/public/assets/img/slate-2020/anish.jpg'); }
+.asna-maheen-img{ background-image: url('/public/assets/img/slate-2020/asna-maheen.jpg'); }
+.bhavana-img{ background-image: url('/public/assets/img/slate-2020/bhavana.jpg'); }
+.deekshita-img{ background-image: url('/public/assets/img/slate-2020/deekshitha.jpeg'); }
+.dhruthiee-img{ background-image: url('/public/assets/img/slate-2020/dhruthiee.jpeg'); }
+.gaurav-img{ background-image: url('/public/assets/img/slate-2020/gaurav.jpg'); }
+.harika-img{ background-image: url('/public/assets/img/slate-2020/harika.jpeg'); }
+.harika_ghantasala-img{ background-image: url('/public/assets/img/slate-2020/harika_ghantasala.jpg'); }
+.indu-img{ background-image: url('/public/assets/img/slate-2020/indu.jpg'); }
+.jaideep-img{ background-image: url('/public/assets/img/slate-2020/jaideep.jpg'); }
+.jinna_hrudaya-img{ background-image: url('/public/assets/img/slate-2020/jinna_hrudaya.jpeg'); }
+.likhith-img{ background-image: url('/public/assets/img/slate-2020/mypic.png'); }
+.katta_ananth-img{ background-image: url('/public/assets/img/slate-2020/katta_ananth.jpg'); }
+.Kranthi_kumar-img{ background-image: url('/public/assets/img/slate-2020/Kranthi_kumar.jpeg'); }
+.niharika-img{ background-image: url('/public/assets/img/slate-2020/niharika.jpg'); }
+.nissy_carolin-img{ background-image: url('/public/assets/img/slate-2020/nissy_carolin.jpg'); }
+.poorna_sree-img{ background-image: url('/public/assets/img/slate-2020/poorna_sree.jpg'); }
+.pranay-img{ background-image: url('/public/assets/img/slate-2020/pranay.jpg'); }
+.praneeth_kumar-img{ background-image: url('/public/assets/img/slate-2020/praneeth_kumar.jpeg'); }
+.rahul_bharadwaj-img{ background-image: url('/public/assets/img/slate-2020/rahul_bharadwaj.jpg'); }
+.rakshit_sarapu-img{ background-image: url('/public/assets/img/slate-2020/rakshit_sarapu.jpg'); }
+.rangu_manohar-img{ background-image: url('/public/assets/img/slate-2020/rangu manohar.jpeg'); }
+.rithika-img{ background-image: url('/public/assets/img/slate-2020/rithika.jpeg'); }
+.roshini-img{ background-image: url('/public/assets/img/slate-2020/roshini.jpg'); }
+.sathvika-img{ background-image: url('/public/assets/img/slate-2020/sathvika.jpg'); }
+.shashidhar-img{ background-image: url('/public/assets/img/slate-2020/shashidhar.jpeg'); }
+.sohith_akana-img{ background-image: url('/public/assets/img/slate-2020/sohith_akana.jpg'); }
+.sagarika-img{ background-image: url('/public/assets/img/slate-2020/sagarika.jpg'); }
+.satish-img{ background-image: url('/public/assets/img/slate-2020/satish_kumar.png'); }
+.tejesh-img{ background-image: url('/public/assets/img/slate-2020/tejesh.JPG'); }
+.m_vaishnavi-img{ background-image: url('/public/assets/img/slate-2020/vaishnavi.jpg'); }
+.vaishnavi_reddy-img{ background-image: url('/public/assets/img/slate-2020/vaishnavi_reddy.jpg'); }
+.Vamshi-img{ background-image: url('/public/assets/img/slate-2020/Vamshi.jpg'); }
+.yashwanth-img{ background-image: url('/public/assets/img/slate-2020/yashwanth.jpg'); }
+.asna-img{ background-image: url('/public/assets/img/slate-2020/IMG_20200331_125736.jpg'); }

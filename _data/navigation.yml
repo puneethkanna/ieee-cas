@@ -1,0 +1,19 @@
+- title: IEEE CAS
+  url: "/"
+  side: left
+
+- title: Execom
+  url: "/execom/"
+  side: left
+
+- title: "NewsLetters"
+  url: "/news-letters/"
+  side: left
+
+- title: "Gallery"
+  url: "/gallery/"
+  side: right
+  
+- title: "Contact"
+  url: "/contact/"
+  side: right

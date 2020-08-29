@@ -1,0 +1,155 @@
+---
+layout: page
+show_meta: false
+title: "Gallery"
+subheadline: ""
+teaser: ""
+header:
+   image_fullwidth: "header_homepage_13.jpg"
+permalink: "/gallery/"
+---
+
+<section class="hero">
+  <div class="container">
+    <h2 class="text-center text-uppercase text-secondary mb-0">Gallery</h2>
+    <hr class="mb-5">
+    <br><br>
+    <h4 class="text-center text-uppercase text-secondary mb-0">Congratulations</h4>
+    <div class="row">
+      <div class="col img-col">
+        <div class="congrats_niharika" style="height:11cm;width:30cm;"><br></div>
+        <br><br><br>
+      </div>
+    </div>
+    <br><br>
+    <h4>ALL HYDERABAD CS MEET UP</h4>
+    <img src="public/assets/img/events/AH CS 1.jpeg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/AH CS MEET UP.jpeg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>SPARKLE 2020</h4>
+    <img src="public/assets/img/events/SPARKLE 2020.jpeg" style="height:12cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/SPARKLE1 2020.jpeg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/SPARKLE2 2020.jpeg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>TECHNICAL QUIZ</h4>
+    <img src="public/assets/img/events/WhatsApp Image 2020-02-10 at 16.59.53.jpeg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>IEEE VCE SB MEET UP</h4>
+    <img src="public/assets/img/events/VCE SB MEET.jpeg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>EM CAD TOOLS - HFSS WORKSHOP</h4>
+    <img src="../public/assets/img/mtt/1.jpeg" style=" padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="../public/assets/img/mtt/2.jpeg" style=" padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="../public/assets/img/mtt/3.jpeg" style=" padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="../public/assets/img/mtt/4.jpeg" style=" padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="../public/assets/img/mtt/5.jpeg" style=" padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <h4>AMATEUR RADIO WORKSHOP</h4>
+    <img src="public/assets/img/events/AMATEUR RADIO.jpeg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>IEEE XTREME PROGRAMMING COMPETITION 13.0</h4>
+    <img src="public/assets/img/events/XTREME 2019.jpeg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/XTREME1 2019.jpeg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>IEEE DAY CELEBRATIONS 2019</h4>
+    <img src="public/assets/img/events/IEEE DAY 2019.jpeg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>WALK THE TALK 2019</h4>
+    <img src="public/assets/img/events/wie/Walk The Talk/1.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/2.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/3.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/4.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/5.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/6.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/7.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/8.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/9.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/11.jpg" style="float: left; padding: 5px; height:16cm; width:15.5cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/12.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/13.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/14.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/Walk The Talk/15.jpg" style="float: left; padding: 5px; height:8cm; width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/img-processing-1.jpeg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/image-processing-2.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/latex.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/website inagural.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>WEB TECHNOLOGIES WORKSHOP</h4>
+    <img src="public/assets/img/events/wt.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wt-gourp-photo.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>SPARKLE 2019</h4>
+    <img src="public/assets/img/events/wie/wie2.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/wie3.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/wie4.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/wie5.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/wie6.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>SELF DEFENCE SESSION FOR GIRLS</h4>
+    <img src="public/assets/img/events/wie/wie7.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>INTERNATIONAL WOMEN'S DAY 2019</h4>
+    <img src="public/assets/img/events/wie/wie8.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/wie/wie9.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>GITHUB WORKSHOP</h4>
+    <img src="public/assets/img/events/interactive_2018.png" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>AHCSSC'19</h4>
+    <img src="public/assets/img/events/ahcssc 1.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/ahcssc 2.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/ahcssc 3.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/ahcssc 4.jpg" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>ICMLIC 2018</h4>
+    <img src="public/assets/img/events/article.png" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/1st_ic.png" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>BASICS OF PYTHON WORKSHOP</h4>
+    <img src="public/assets/img/events/b_python.png" style="height:8cm;width:15cm;">
+    <br><br>
+    <h4>DATA ANALYTICS USING "R" WORKSHOP</h4>
+    <img src="public/assets/img/events/data_analytics_r.png" style="height:8cm;width:15cm;">
+    <br><br>
+    <img src="public/assets/img/events/group_pic.png" style="height:8cm;width:15cm;">
+    <br><br><br>
+    <h3>WIE AFFINITY GROUP INNAUGRAL</h3>
+    <img src="public/assets/img/events/wie/wie1.jpg" style="height:8cm;width:15cm;">
+    <br><br><br>
+  </div>
+</section>
