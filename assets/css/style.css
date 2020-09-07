@@ -1,3 +1,19 @@
+/*---------------Footer CSS-----------------*/
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+
+.text-center {
+    text-align: center !important;
+}
+.footer {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: #2c3e50 !important;
+    color: #fff;
+}
+
+/*-------------Footer CSS Complete------------------*/
 form .row:first-child .floating-label-form-group {
     border-top: 1px solid #e9ecef;
   }
@@ -22,7 +38,7 @@ header.masthead {
 }
 
 .hero {
-    padding-top: 150px;
+    padding-top: 10px;
 }
 
 .img-col{
@@ -68,7 +84,7 @@ header.masthead {
 
 /* IEEE LOGO'S*/
 .IEEEnLOGO{
-    background-image: url('/public/assets/img/IEEE VCE SB PNG.png'); 
+    background-image: url('https://ieeevardhaman.org/public/assets/img/IEEE VCE SB PNG.png'); 
     height: 220px;
     width: 240px;
     background-size: 100%;
@@ -76,9 +92,9 @@ header.masthead {
 }
 
 /*IEEE logo's*/
-.ieee_cs-logo{ background-image: url('/public/assets/img/IEEE_CS.png'); }
-.ieee_wie-logo{ background-image: url('/public/assets/img/IEEE_WIE.png'); }
-.ieee_mtt-logo{ background-image: url('/public/assets/img/IEEE_MTT-S.svg'); }
+.ieee_cs-logo{ background-image: url('https://ieeevardhaman.org/public/assets/img/IEEE_CS.png'); }
+.ieee_wie-logo{ background-image: url('https://ieeevardhaman.org/public/assets/img/IEEE_WIE.png'); }
+.ieee_mtt-logo{ background-image: url('https://ieeevardhaman.org/public/assets/img/IEEE_MTT-S.svg'); }
 
 /*Coongrats Images*/
 [class$='congrats_']{
@@ -86,76 +102,76 @@ header.masthead {
     width: 18cm;
     background-size: 100%;
 }
-.congrats_niharika{ background-image: url('/public/assets/img/congrats_niharika.jpeg'); }
-.congrats_prashanth{ background-image: url('/public/assets/img/congrats_prashanth.jpeg'); }
+.congrats_niharika{ background-image: url('https://ieeevardhaman.org/public/assets/img/congrats_niharika.jpeg'); }
+.congrats_prashanth{ background-image: url('https://ieeevardhaman.org/public/assets/img/congrats_prashanth.jpeg'); }
 
 /*Landing page images */
 
-.principal-sir-img{ background-image: url('/public/assets/img/principal-sir.jpg'); }
+.principal-sir-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/principal-sir.jpg'); }
 
-.jabbar-sir-img{ background-image: url('/public/assets/img/jabbar-sir.jpg'); }
+.jabbar-sir-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/jabbar-sir.jpg'); }
 
-.rajanikanth_sir-img{ background-image: url('/public/assets/img/rajanikanth_sir.jpg'); }
+.rajanikanth_sir-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/rajanikanth_sir.jpg'); }
 
-.mallikharjuna_sir-img{ background-image: url('/public/assets/img/mallikarjun_sir.jpg'); }
+.mallikharjuna_sir-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/mallikarjun_sir.jpg'); }
 
-.asif-img{ background-image: url('/public/assets/img/asif_sir.jpg'); }
+.asif-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/asif_sir.jpg'); }
 
 /* CS chapter images */
 
-.pravan-img{ background-image: url('/public/assets/img/pravan.jpg'); }
+.pravan-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/pravan.jpg'); }
 
-.niharika-img{ background-image: url('/public/assets/img/niharika.jpg'); }/*Common*/
+.niharika-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/niharika.jpg'); }/*Common*/
 
-.burhan-img{ background-image: url('/public/assets/img/burhan.jpg'); }
+.burhan-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/burhan.jpg'); }
 
-.sunayana-img{ background-image: url('/public/assets/img/sunayana.jpg'); }
+.sunayana-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/sunayana.jpg'); }
 
-.prashanth-img{ background-image: url('/public/assets/img/prashanth.jpg'); }/*Common*/
+.prashanth-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/prashanth.jpg'); }/*Common*/
 
-.vaishnavi-img{ background-image: url('/public/assets/img/vaishnavi.jpg'); }/*Common*/
+.vaishnavi-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/vaishnavi.jpg'); }/*Common*/
 
-.akash-img{ background-image: url('/public/assets/img/akash.jpg'); }
+.akash-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/akash.jpg'); }
 
-.shashi-img{ background-image: url('/public/assets/img/shashi.jpg'); }
+.shashi-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/shashi.jpg'); }
 
-.puneeth-img{ background-image: url('/public/assets/img/puneeth.jpeg'); }/*Common*/
+.puneeth-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/puneeth.jpeg'); }/*Common*/
 
 /* MTT chapter images */
 
-.sulakshana_madam-img{ background-image: url('/public/assets/img/sulakshana_madam.jpg'); }
+.sulakshana_madam-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/sulakshana_madam.jpg'); }
 
-.manohar-img{ background-image: url('/public/assets/img/manohar.jpeg'); }
+.manohar-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/manohar.jpeg'); }
 
-.akshita-img{ background-image: url('/public/assets/img/akshita.jpg'); }/*Common*/
+.akshita-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/akshita.jpg'); }/*Common*/
 
-.priyanka-img{ background-image: url('/public/assets/img/priyanka.jpg'); }/*Common*/
+.priyanka-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/priyanka.jpg'); }/*Common*/
 
-.adhana-img{ background-image: url('/public/assets/img/adhana.jpg'); }
+.adhana-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/adhana.jpg'); }
 
-.pooja-img{ background-image: url('/public/assets/img/pooja.jpg'); }
+.pooja-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/pooja.jpg'); }
 
-.hemavardhan-img{ background-image: url('/public/assets/img/hemavardhan.jpg'); }
+.hemavardhan-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/hemavardhan.jpg'); }
 
-.afsha-img{ background-image: url('/public/assets/img/afsha.jpg'); }/*Common*/
+.afsha-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/afsha.jpg'); }/*Common*/
 
-.nagaraju-img{ background-image: url('/public/assets/img/nagaraju.jpg'); }
+.nagaraju-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/nagaraju.jpg'); }
 
 /* WIE Chapter images */
 
-.sangeeta_madam-img{ background-image: url('/public/assets/img/20191119_152040.jpg'); }
+.sangeeta_madam-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/20191119_152040.jpg'); }
 
-.thanmai-img{ background-image: url('/public/assets/img/thanmai.jpeg'); }
+.thanmai-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/thanmai.jpeg'); }
 
 /* CAS Chapter images */
 
-.jvr_sir-img{ background-image: url('/public/assets/img/jvr_sir.jpg'); }
+.jvr_sir-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/jvr_sir.jpg'); }
 
-.subramanya-img{ background-image: url('/public/assets/img/subramanya.jpg'); }
+.subramanya-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/subramanya.jpg'); }
 
-.vandana-img{ background-image: url('/public/assets/img/vandana.jpg'); }
+.vandana-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/vandana.jpg'); }
 
-.sai_charan-img{ background-image: url('/public/assets/img/sai_charan_l.jpg'); }
+.sai_charan-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/sai_charan_l.jpg'); }
 
 .newsletter-pdf{
     height: 800px;
@@ -164,45 +180,45 @@ header.masthead {
 
 /*-------------------------------------------- Slate 2020 images ----------------------------------------------*/
 
-.aditya-img{ background-image: url('/public/assets/img/slate-2020/aditya.jpeg'); }
-.bujji-img{ background-image: url('/public/assets/img/slate-2020/WhatsApp Image 2020-04-01 at 5.46.03 PM.jpeg'); }
-.ajay-img{ background-image: url('/public/assets/img/slate-2020/ajay.jpg'); }
-.asma-img{ background-image: url('/public/assets/img/asma.jpeg'); }
-.shriya-img{ background-image: url('/public/assets/img/slate-2020/shriya-ece.jpg'); }
-.pavanid-img{ background-image: url('/public/assets/img/slate-2020/Screenshot_20200331-125802_Photos.jpg'); }
-.asna-img{ background-image: url('/public/assets/img/slate-2020/asna.jpg'); }
-.anish-img{ background-image: url('/public/assets/img/slate-2020/anish.jpg'); }
-.asna-maheen-img{ background-image: url('/public/assets/img/slate-2020/asna-maheen.jpg'); }
-.bhavana-img{ background-image: url('/public/assets/img/slate-2020/bhavana.jpg'); }
-.deekshita-img{ background-image: url('/public/assets/img/slate-2020/deekshitha.jpeg'); }
-.dhruthiee-img{ background-image: url('/public/assets/img/slate-2020/dhruthiee.jpeg'); }
-.gaurav-img{ background-image: url('/public/assets/img/slate-2020/gaurav.jpg'); }
-.harika-img{ background-image: url('/public/assets/img/slate-2020/harika.jpeg'); }
-.harika_ghantasala-img{ background-image: url('/public/assets/img/slate-2020/harika_ghantasala.jpg'); }
-.indu-img{ background-image: url('/public/assets/img/slate-2020/indu.jpg'); }
-.jaideep-img{ background-image: url('/public/assets/img/slate-2020/jaideep.jpg'); }
-.jinna_hrudaya-img{ background-image: url('/public/assets/img/slate-2020/jinna_hrudaya.jpeg'); }
-.likhith-img{ background-image: url('/public/assets/img/slate-2020/mypic.png'); }
-.katta_ananth-img{ background-image: url('/public/assets/img/slate-2020/katta_ananth.jpg'); }
-.Kranthi_kumar-img{ background-image: url('/public/assets/img/slate-2020/Kranthi_kumar.jpeg'); }
-.niharika-img{ background-image: url('/public/assets/img/slate-2020/niharika.jpg'); }
-.nissy_carolin-img{ background-image: url('/public/assets/img/slate-2020/nissy_carolin.jpg'); }
-.poorna_sree-img{ background-image: url('/public/assets/img/slate-2020/poorna_sree.jpg'); }
-.pranay-img{ background-image: url('/public/assets/img/slate-2020/pranay.jpg'); }
-.praneeth_kumar-img{ background-image: url('/public/assets/img/slate-2020/praneeth_kumar.jpeg'); }
-.rahul_bharadwaj-img{ background-image: url('/public/assets/img/slate-2020/rahul_bharadwaj.jpg'); }
-.rakshit_sarapu-img{ background-image: url('/public/assets/img/slate-2020/rakshit_sarapu.jpg'); }
-.rangu_manohar-img{ background-image: url('/public/assets/img/slate-2020/rangu manohar.jpeg'); }
-.rithika-img{ background-image: url('/public/assets/img/slate-2020/rithika.jpeg'); }
-.roshini-img{ background-image: url('/public/assets/img/slate-2020/roshini.jpg'); }
-.sathvika-img{ background-image: url('/public/assets/img/slate-2020/sathvika.jpg'); }
-.shashidhar-img{ background-image: url('/public/assets/img/slate-2020/shashidhar.jpeg'); }
-.sohith_akana-img{ background-image: url('/public/assets/img/slate-2020/sohith_akana.jpg'); }
-.sagarika-img{ background-image: url('/public/assets/img/slate-2020/sagarika.jpg'); }
-.satish-img{ background-image: url('/public/assets/img/slate-2020/satish_kumar.png'); }
-.tejesh-img{ background-image: url('/public/assets/img/slate-2020/tejesh.JPG'); }
-.m_vaishnavi-img{ background-image: url('/public/assets/img/slate-2020/vaishnavi.jpg'); }
-.vaishnavi_reddy-img{ background-image: url('/public/assets/img/slate-2020/vaishnavi_reddy.jpg'); }
-.Vamshi-img{ background-image: url('/public/assets/img/slate-2020/Vamshi.jpg'); }
-.yashwanth-img{ background-image: url('/public/assets/img/slate-2020/yashwanth.jpg'); }
-.asna-img{ background-image: url('/public/assets/img/slate-2020/IMG_20200331_125736.jpg'); }
+.aditya-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/aditya.jpeg'); }
+.bujji-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/WhatsApp Image 2020-04-01 at 5.46.03 PM.jpeg'); }
+.ajay-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/ajay.jpg'); }
+.asma-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/asma.jpeg'); }
+.shriya-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/shriya-ece.jpg'); }
+.pavanid-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/Screenshot_20200331-125802_Photos.jpg'); }
+.asna-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/asna.jpg'); }
+.anish-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/anish.jpg'); }
+.asna-maheen-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/asna-maheen.jpg'); }
+.bhavana-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/bhavana.jpg'); }
+.deekshita-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/deekshitha.jpeg'); }
+.dhruthiee-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/dhruthiee.jpeg'); }
+.gaurav-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/gaurav.jpg'); }
+.harika-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/harika.jpeg'); }
+.harika_ghantasala-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/harika_ghantasala.jpg'); }
+.indu-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/indu.jpg'); }
+.jaideep-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/jaideep.jpg'); }
+.jinna_hrudaya-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/jinna_hrudaya.jpeg'); }
+.likhith-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/mypic.png'); }
+.katta_ananth-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/katta_ananth.jpg'); }
+.Kranthi_kumar-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/Kranthi_kumar.jpeg'); }
+.niharika-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/niharika.jpg'); }
+.nissy_carolin-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/nissy_carolin.jpg'); }
+.poorna_sree-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/poorna_sree.jpg'); }
+.pranay-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/pranay.jpg'); }
+.praneeth_kumar-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/praneeth_kumar.jpeg'); }
+.rahul_bharadwaj-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/rahul_bharadwaj.jpg'); }
+.rakshit_sarapu-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/rakshit_sarapu.jpg'); }
+.rangu_manohar-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/rangu manohar.jpeg'); }
+.rithika-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/rithika.jpeg'); }
+.roshini-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/roshini.jpg'); }
+.sathvika-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/sathvika.jpg'); }
+.shashidhar-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/shashidhar.jpeg'); }
+.sohith_akana-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/sohith_akana.jpg'); }
+.sagarika-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/sagarika.jpg'); }
+.satish-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/satish_kumar.png'); }
+.tejesh-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/tejesh.JPG'); }
+.m_vaishnavi-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/vaishnavi.jpg'); }
+.vaishnavi_reddy-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/vaishnavi_reddy.jpg'); }
+.Vamshi-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/Vamshi.jpg'); }
+.yashwanth-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/yashwanth.jpg'); }
+.asna-img{ background-image: url('https://ieeevardhaman.org/public/assets/img/slate-2020/IMG_20200331_125736.jpg'); }

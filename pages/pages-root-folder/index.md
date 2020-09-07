@@ -26,7 +26,7 @@ permalink: /index.html
 homepage: true
 ---
 
-<section class="hero">
+<section class="hero" style="margin-top:-70px;">
   <div class="container">
     <h2 class="text-center text-uppercase text-secondary mb-0">CAS Chapter</h2>
     <hr class="mb-5">
@@ -36,7 +36,7 @@ homepage: true
       <div class="col-md-3">
         <div class="jvr_sir-img"></div>
       </div>
-      <div class="col-md-9">
+      <div class="col-md-9"><br><br>
         <p>I feel prodigiously flattered to be a part of IEEE circuits and systems (CAS) student chapter.
            CAS has immense requirement in modern era.Research in CAS through years result in the advancement of systems. 
           As a result there is a development of complex,advanced systems;which are used by every industry. 
